@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Seleção de Coros</title>
+    <meta name="theme-color" content="#c9c9c9">
+    <link rel="manifest" href="/manifest.json">
+    <link rel="stylesheet" href="/lib/onsenui/css/material-design-iconic-font/css/material-design-iconic-font.min.css">
+    <link rel="stylesheet" href="/lib/onsenui/css/onsenui.css">
+    <link rel="stylesheet" href="/lib/onsenui/css/onsen-css-components.min.css">
+    <script src="/lib/onsenui/js/onsenui.min.js"></script>
+    <script src="/app.js"></script>
+    <script>
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('/sw.js')
+                .then(registration => {
+                    console.log("Service Worker Registered");
+
+                    if (registration.active) {
+                        registration.addEventListener('updatefound', () => {
+                            console.log('Update found. Waiting for install to complete.');
+                            const installingWorker = registration.installing;
+
+                            installingWorker.addEventListener('statechange', () => {
+                                if (installingWorker.state === 'installed') {
+                                    console.log('Install complete. Triggering update prompt.');
+                                    onUpdateFound();
+                                }
+                            });
+                        });
+                    }
+                })
+                .catch(e => console.log(e));
+        }
+
+        function onUpdateFound() {
+            ons.notification.confirm('Uma nova versão foi encontrada. Deseja atualizar agora?')
+                .then(buttonIndex => {
+                    if (buttonIndex === 1) {
+                        location.reload();
+                    }
+                });
+        }
+    </script>
+</head>
+
+<body>
+    <ons-splitter>
+        <!-- The side menu -->
+        <ons-splitter-side id="menu" collapse>
+            <ons-page>
+                <ons-list>
+                    <ons-list-item onclick="loadPage('about.html')">
+                        Sobre
+                    </ons-list-item>
+                    <ons-list-item onclick="loadPage('config.html')">
+                        Configurações
+                    </ons-list-item>
+                </ons-list>
+            </ons-page>
+        </ons-splitter-side>
+
+        <!-- Everything not in the side menu -->
+        <ons-splitter-content>
+            <ons-navigator id="navigator" page="home.html" animation="slide"></ons-navigator>
+        </ons-splitter-content>
+    </ons-splitter>
+</body>
+
+</html>

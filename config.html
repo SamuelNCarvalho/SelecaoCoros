@@ -1,0 +1,24 @@
+<ons-page id="config">
+    <ons-toolbar>
+        <div class="left">
+            <ons-back-button></ons-back-button>
+        </div>
+        <div class="center">Configurações</div>
+    </ons-toolbar>
+
+    <ons-list id="config-list">
+        <ons-list-item onclick="clearAllCaches()">
+            Limpar todos os caches
+        </ons-list-item>
+    </ons-list>
+
+    <ons-alert-dialog id="cacheClear">
+        <div class="alert-dialog-title">Sucesso!</div>
+        <div class="alert-dialog-content">
+            Todos os caches foram removidos
+        </div>
+        <div class="alert-dialog-footer">
+            <ons-alert-dialog-button onclick="closeDialog('cacheClear')">OK</ons-alert-dialog-button>
+        </div>
+    </ons-alert-dialog>
+</ons-page>
