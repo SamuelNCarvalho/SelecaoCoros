@@ -23,12 +23,24 @@ const openMenu = () => {
 
 const zoomIn = () => {
     var currentSize = parseFloat(document.getElementById("contentBody").style.fontSize);
+    document.getElementById("contentTitle").style.fontSize = (currentSize + 5) + 'px';
     document.getElementById("contentBody").style.fontSize = (currentSize + 5) + 'px';
 };
 
 const zoomOut = () => {
     var currentSize = parseFloat(document.getElementById("contentBody").style.fontSize);
+    document.getElementById("contentTitle").style.fontSize = (currentSize + 5) + 'px';
     document.getElementById("contentBody").style.fontSize = (currentSize - 5) + 'px';
+};
+
+const zoomInHome = () => {
+    var currentSize = parseFloat(document.getElementById("hymns-list").style.fontSize);
+    document.getElementById("hymns-list").style.fontSize = (currentSize + 5) + 'px';
+};
+
+const zoomOutHome = () => {
+    var currentSize = parseFloat(document.getElementById("hymns-list").style.fontSize);
+    document.getElementById("hymns-list").style.fontSize = (currentSize - 5) + 'px';
 };
 
 const loadHymn = (number) => {

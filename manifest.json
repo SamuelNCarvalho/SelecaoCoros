@@ -3,7 +3,7 @@
     "short_name": "Seleção de Coros",
     "start_url": "/SelecaoCoros/",
     "display": "standalone",
-    "theme_color": "#c9c9c9",
+    "theme_color": "#e1e1e1",
     "background_color": "#fff",
     "icons": [{
       "src": "https://samuelncarvalho.github.io/SelecaoCoros/img/logo192x192.png",

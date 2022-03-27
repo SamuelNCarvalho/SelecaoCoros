@@ -1,15 +1,24 @@
 <ons-page id="home">
     <ons-toolbar id="home-toolbar">
-        <div class="center">Seleção de Coros</div>
-
         <div class="left">
             <ons-toolbar-button style="color: #681a1e;" onclick="openMenu()">
                 <ons-icon icon="md-menu"></ons-icon>
             </ons-toolbar-button>
         </div>
+        
+        <div class="center">Seleção de Coros</div>
+
+        <div class="right">
+            <ons-toolbar-button style="color: #681a1e;" onclick="zoomInHome()">
+                <ons-icon icon="md-zoom-in" size="30px"></ons-icon>
+            </ons-toolbar-button>
+            <ons-toolbar-button style="color: #681a1e;" onclick="zoomOutHome()">
+                <ons-icon icon="md-zoom-out" size="30px"></ons-icon>
+            </ons-toolbar-button>
+        </div>
     </ons-toolbar>
 
-    <ons-list id="hymns-list"></ons-list>
+    <ons-list id="hymns-list" style="font-size: 16px;"></ons-list>
 
     <div id="after-list" style="margin: 20px; text-align: center; display: none;">
         <ons-icon icon="fa-spinner" size="26px" spin></ons-icon>
