@@ -1,7 +1,7 @@
 {
     "name": "Seleção de Coros - C.O JD Aeroporto",
     "short_name": "Seleção de Coros",
-    "start_url": "/",
+    "start_url": "/SelecaoCoros/",
     "display": "standalone",
     "theme_color": "#c9c9c9",
     "background_color": "#fff",

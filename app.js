@@ -66,7 +66,7 @@ const updateHymnsList = () => {
 
 document.addEventListener('init', ({ target }) => {
     if (target.matches('#home')) {
-        let versionUrl = '/version.json';
+        let versionUrl = 'https://samuelncarvalho.github.io/SelecaoCoros/version.json';
 
         const getVersion = async () => {
             const response = await fetch(versionUrl);
@@ -91,7 +91,7 @@ document.addEventListener('init', ({ target }) => {
         var cachedHymns = localStorage.getItem('hymns');
 
         const get = async () => {
-            let url = '/hymns.json';
+            let url = 'https://samuelncarvalho.github.io/SelecaoCoros/hymns.json';
             document.querySelector('#after-list').style.display = 'block';
             const response = await fetch(url);
             const json = await response.json();

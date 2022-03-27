@@ -1,4 +1,4 @@
-// VERSION: 1.0.2
+// VERSION: 1.0.0
 
 self.addEventListener('install', function (e) {
     console.log('install');
@@ -8,12 +8,15 @@ self.addEventListener('install', function (e) {
             return cache.addAll([
                 '/',
                 '/index.html',
-                '/manifest.json',
-                '/lib/onsenui/css/material-design-iconic-font/css/material-design-iconic-font.min.css',
-                '/lib/onsenui/css/onsenui.css',
-                '/lib/onsenui/css/onsen-css-components.min.css',
-                '/lib/onsenui/js/onsenui.min.js',
-                '/app.js',
+                'https://samuelncarvalho.github.io/SelecaoCoros',
+                'https://samuelncarvalho.github.io/SelecaoCoros/',
+                'https://samuelncarvalho.github.io/SelecaoCoros/index.html',
+                'https://samuelncarvalho.github.io/SelecaoCoros/manifest.json',
+                'https://samuelncarvalho.github.io/SelecaoCoros/lib/onsenui/css/material-design-iconic-font/css/material-design-iconic-font.min.css',
+                'https://samuelncarvalho.github.io/SelecaoCoros/lib/onsenui/css/onsenui.css',
+                'https://samuelncarvalho.github.io/SelecaoCoros/lib/onsenui/css/onsen-css-components.min.css',
+                'https://samuelncarvalho.github.io/SelecaoCoros/lib/onsenui/js/onsenui.min.js',
+                'https://samuelncarvalho.github.io/SelecaoCoros/app.js',
             ]);
         })
     );
