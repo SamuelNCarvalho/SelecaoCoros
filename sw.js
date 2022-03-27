@@ -1,4 +1,4 @@
-// VERSION: 1.0.103
+// VERSION: 1.0.104
 
 self.addEventListener('install', function (e) {
     console.log('install');

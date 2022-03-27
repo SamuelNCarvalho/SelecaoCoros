@@ -1,7 +1,213 @@
 [
     {
         "number" : 1,
+        "title" : "Quebrantado",
+        "content" : "Eu olho para a cruz<br>Para a cruz eu vou<br>Do seu sofrer participar<br>Da sua obra vou cantar<br><br>Meu salvador<br>Na cruz mostrou<br>O amor do pai<br>O justo Deus<br><br>Pela cruz me chamou<br>Gentilmente me atraiu<br>E eu, sem palavras, me aproximo<br>Quebrantado por seu amor<br><br>Imerecida vida<br>De graça recebi<br>Por sua cruz<br>Da morte me livrou<br><br>Trouxe-me a vida<br>Eu estava condenado<br>Mas agora pela cruz<br>Eu fui reconciliado<br><br>Pela cruz me chamou<br>Gentilmente me atraiu<br>E eu, sem palavras, me aproximo<br>Quebrantado por seu amor<br><br>Pela cruz me chamou<br>Gentilmente me atraiu<br>E eu, sem palavras, me aproximo<br>Quebrantado por seu amor<br><br>Impressionante é o seu amor<br>Me redimiu e me mostrou o quanto é fiel<br>Impressionante é o seu amor<br>Me redimiu e me mostrou o quanto é fiel<br><br>Pela cruz me chamou<br>Gentilmente me atraiu<br>E eu, sem palavras, me aproximo<br>Quebrantado por seu amor<br><br>Pela cruz me chamou<br>Gentilmente me atraiu<br>E eu, sem palavras, me aproximo<br>Quebrantado por seu amor"
+    },
+    {
+        "number" : 2,
+        "title" : "Não tardará",
+        "content" : "Não tardará, Cristo irá voltar<br>Não tardará, vamos para o lar<br><br>Eu quero me preparar<br>Pois vamos logo subir<br>E quero junto a você<br>Lá no Céu<br>Conversar com Jesus<br>Não tardará, Cristo irá voltar<br>Não tardará, vamos para o lar<br><br>Eu quero me preparar<br>Pois vamos logo subir<br>E quero junto a você<br>Lá no Céu<br>Conversar com Jesus"
+    },
+    {
+        "number" : 3,
+        "title" : "Na oração",
+        "content" : "Na oração, encontro calma<br>Na oração, encontro paz<br>Orar a Deus faz bem à alma<br>Falar com Deus me satisfaz<br><br>Falar com Deus, que privilégio<br>Abrir a alma ao Criador<br>Sentir que os céus estão abertos<br>E ouvir a voz do Salvador<br><br>Grande é o nosso Deus<br>E as obras que Ele faz<br>O Seu amor não tem limites<br>Em Seu perdão, encontro paz<br><br>Falar com Deus é o que preciso<br>Pois Ele é fonte de poder<br>Só Nele a vida faz sentido<br>Pois me dá forças pra viver<br><br>Grande é o nosso Deus<br>E as obras que Ele faz<br>O Seu amor não tem limites<br>Em Seu perdão, encontro paz<br><br>Grande é o nosso Deus<br>E as obras que Ele faz<br>O Seu amor não tem limites<br>Em Seu perdão, encontro paz<br><br>Na oração, encontro calma<br>Na oração, encontro paz<br>Orar a Deus faz bem à alma<br>Falar com Deus me satisfaz"
+    },
+    {
+        "number" : 4,
+        "title" : "Jesus em Tua presença",
+        "content" : "Jesus em Tua presença reunimo-nos aqui<br>Contemplamos Tua face e rendemo-nos a Ti<br>Pois um dia Tua morte trouxe vida a todos nós<br>E nos deu completo acesso ao coração do Pai<br><br>O véu que separava já não separa mais<br>A luz que outrora apagada<br>Agora brilha e cada dia brilha mais<br><br>Só pra te adorar e fazer Teu nome grande<br>E Te dar o louvor que é devido<br>Estamos nós aqui"
+    },
+    {
+        "number" : 5,
+        "title" : "A começar em mim",
+        "content" : "Em breve..."
+    },
+    {
+        "number" : 6,
+        "title" : "Lá está o meu tesouro",
+        "content" : "Lá está o meu tesouro<br>Lá onde não há choro<br>Onde todos cantaremos juntos<br>Hinos de Louvor ao Senhor<br><br>Aleluia, aleluia<br>Aleluia, aleluia<br>Hinos de Louvor ao Senhor"
+    },
+    {
+        "number" : 7,
+        "title" : "Ao único",
+        "content" : "Ao único que é digno de receber<br>A honra e a glória, a força e o poder<br>Ao Rei eterno e imortal, invisível, mas real<br>A Ele ministramos o louvor<br><br>Ao único que é digno de receber<br>A honra e a glória, a força e o poder<br>Ao Rei eterno e imortal, invisível, mas real<br>A Ele ministramos o louvor<br><br>Coroamos a Ti, ó Rei Jesus<br>Coroamos a Ti, ó Rei Jesus<br>Adoramos o Teu nome<br>Nos rendemos aos Teus pés<br>Consagramos todo nosso ser a Ti<br><br>Ao Rei eterno e imortal, invisível, mas real<br>A Ele, ministramos o louvor<br>Coroamos a Ti, ó Rei Jesus<br>Coroamos a Ti, ó Rei Jesus<br>Adoramos o Teu nome<br>Nos rendemos aos Teus pés<br>Consagramos todo nosso ser a Ti<br><br>Coroamos a Ti, ó Rei Jesus<br>Coroamos a Ti, ó Rei Jesus<br>Adoramos o Teu nome<br>Nos rendemos aos Teus pés<br>Consagramos todo nosso ser a Ti<br>Consagramos todo nosso ser a Ti"
+    },
+    {
+        "number" : 8,
+        "title" : "Jesus virá",
+        "content" : "Um dia lindo almejo eu encontrar<br>A eterna glória que prometida está<br>Gozo e alegria posso então eu sentir<br>Pois Jesus Cristo já está por vir<br><br>Jesus virá outra vez aqui<br>Jesus virá, Jesus virá mais uma vez aqui<br>E todos juntos em um só louvor<br>Cantemos, cantemos todos Ele é o nosso Senhor<br><br>Ele veio ao mundo pra ser mártir da paz<br>Ele foi tentado e não pecou jamais<br>A Sua vida foi exemplo de amor<br>Cantemos juntos, Ele é o nosso Senhor<br><br>Jesus virá outra vez aqui<br>Jesus virá, Jesus virá mais uma vez aqui<br>E todos juntos em um só louvor<br>Cantemos, cantemos todos Ele é o nosso Senhor<br><br>Oh, aleluia, Ele voltará<br>Oh, aleluia, para me levar<br><br>Jesus virá outra vez aqui<br>Jesus virá, Jesus virá mais uma vez aqui<br>E todos juntos em um só louvor<br>Cantemos, cantemos todos Ele é o nosso Senhor<br><br>Jesus virá outra vez aqui<br>Jesus virá, Jesus virá mais uma vez aqui<br>E todos juntos em um só louvor<br>Cantemos, cantemos todos Ele é o nosso Senhor<br><br>Jesus virá outra vez aqui<br>Jesus virá, Jesus virá mais uma vez aqui<br>E todos juntos em um só louvor<br>Cantemos, cantemos todos Ele é o nosso Senhor"
+    },
+    {
+        "number" : 9,
+        "title" : "A terra vai um dia contemplar",
+        "content" : "A terra vai um dia contemplar aquele que um dia virá<br>Com autoridade julgará: Toda a terra se ajoelhará<br><br>Oh! Aleluia! Ele voltará! Oh! Aleluia! Para me levar! [2X]<br><br>Uma nova terra assim será e a paz nunca se findará<br>Oh! Como será maravilhoso contemplar o meu Salvador."
+    },
+    {
+        "number" : 10,
+        "title" : "Glória para sempre",
+        "content" : "Glória pra sempre, ao Cordeiro de Deus<br>A Jesus, o Senhor, ao Leão de Judá<br>A raiz de Davi, que venceu e o livro abrirá<br>O céu, a terra e o mar, e tudo o que neles há<br>O adorarão, e confessarão:<br>Jesus Cristo é o Senhor!<br><br><br>Ele é O Senhor, Ele é O Senhor!<br>Ressurreto dentre os mortos, Ele é O Senhor<br>Todo joelho se dobrará, toda língua confessará<br>Que Jesus Cristo é O Senhor!"
+    },
+    {
+        "number" : 11,
+        "title" : "Quem nos separará",
+        "content" : "Quem nos separará do amor de Cristo<br>Será tribulação, angústia ou perseguição<br>Fome ou nudez, perigo ou espada<br>Quem nos separará do amor de Cristo<br><br>Porque estou bem certo<br>De que nem morte, nem vida<br>Nem anjos, nem principados<br>Nem coisas do presente e nem do porvir<br><br>Nem poderes, nem alturas<br>Nem profundidade<br>Nem qualquer outra criatura<br>Poderá nos separar do amor de Deus<br>Que está em Jesus Cristo<br>Nosso Senhor,<br>Que está em Jesus Cristo<br><br>Nada, nada, poderá nos separar<br>Nada, nada, poderá nos separar<br>Do amor de Deus<br>Que está em Jesus Cristo<br>Nosso Senhor<br>Que está em Jesus Cristo"
+    },
+    {
+        "number" : 12,
+        "title" : "Celebrai com júbilo",
+        "content" : "Celebrai com júbilo ao Senhor<br>Todos os moradores da Terra<br>Servi ao Senhor com alegria<br>Apresentai-vos a Ele com cânticos<br><br>Sabei que o Senhor é bom<br>E eterna é Sua bondade<br>E a Sua fidelidade<br>De geração em geração<br><br>Aleluia, glória e aleluia<br>Aleluia, glória e aleluia<br>Aleluia, glória e aleluia<br>Aleluia, glória e aleluia<br><br>Aleluia, glória e aleluia<br>Aleluia, glória e aleluia<br>Aleluia, glória e aleluia<br>Aleluia, glória e aleluia<br><br>Celebrai com júbilo ao Senhor<br>Todos os moradores da Terra<br>Servi ao Senhor com alegria<br>Apresentai-vos a Ele com cânticos<br><br>Sabei que o Senhor é bom<br>E eterna é Sua bondade<br>E a Sua fidelidade<br>De geração em geração<br><br>Aleluia, glória e aleluia<br>Aleluia, glória e aleluia<br>Aleluia, glória e aleluia<br>Aleluia, glória e aleluia<br><br>Aleluia, glória e aleluia<br>Aleluia, glória e aleluia<br>Aleluia, glória e aleluia<br>Aleluia, glória e aleluia<br><br>Aleluia, glória e aleluia<br>Aleluia, glória e aleluia<br>Aleluia, glória e aleluia<br>Aleluia, glória e aleluia<br><br>Aleluia, glória e aleluia<br>Aleluia, glória e aleluia<br>Aleluia, glória e aleluia<br>Aleluia, glória e aleluia<br><br>Amém!"
+    },
+    {
+        "number" : 13,
+        "title" : "Conheci um mundo mau",
+        "content" : "Conheci um mundo mau<br>E com eles seus ardis<br>Me arrastei no lamaçal<br>Tudo isto porque eu quis<br><br>Saber mais que qualquer um<br>Construir algum amor<br>Onde a paz pudesse ser<br>A verdade pra eu ver<br><br>Mas Jesus Cristo veio e me achou<br>Assim tão sujo<br>E numa cruz por mim derramou<br>Sangue tão puro<br>Foi assim<br>Que me salvou<br><br>Eu conheço agora assim<br>A clareza de Jesus<br>Foi das trevas que eu vim<br>Encontrei-me com a luz<br>Hoje quero sim saber<br>Do meu mestre e salvador<br>Quero dar-lhe o meu louvor<br>Eu só Nele posso crer"
+    },
+    {
+        "number" : 14,
+        "title" : "Digno é o Senhor",
+        "content" : "Graças eu te dou, Pai<br>Pelo preço que pagou<br>Sacrifício de amor<br>Que me comprou<br>Ungido do Senhor<br><br>Pelos cravos em tuas mãos<br>Graças eu te dou, ó meu Senhor<br>Lavou minha mente e coração<br>Me deu perdão<br>Restaurou-me a comunhão<br><br>Refrão:<br>Digno é o Senhor<br>Sobre o trono está<br>Soberano criador<br>Vou sempre te adorar<br>Elevo minhas mãos<br>Ao Cristo que venceu<br>Cordeiro de Deus morreu por mim<br>Mas ressuscitou<br>Digno é o Senhor<br><br>Pelos cravos em tuas mãos<br>Graças eu te dou, ó meu Senhor<br>Lavou minha mente e coração<br>Me deu perdão<br>Restaurou-me a comunhão"
+    },
+    {
+        "number" : 15,
+        "title" : "Coração igual ao Teu",
+        "content" : "Se Tu olhares, Senhor<br>Pra dentro de mim<br>Nada encontrarás de bom<br>Mas um desejo eu tenho<br>De ser transformado<br>Preciso tanto do Teu perdão<br>Dá-me um novo coração<br><br>Se Tu olhares, Senhor<br>Pra dentro de mim<br>Nada encontrarás de bom<br>Mas um desejo eu tenho<br>De ser transformado<br>Preciso tanto do Teu perdão<br>Dá-me um novo coração<br><br>Dá-me um coração igual ao Teu<br>Meu Mestre<br>Dá-me um coração igual ao Teu<br><br>Coração disposto a obedecer<br>Cumprir todo o Teu querer<br>Dá-me um coração igual ao Teu<br><br>Dá-me um coração igual ao Teu<br>Meu Mestre<br>Dá-me um coração igual ao Teu<br><br>Coração disposto a obedecer<br>Cumprir todo o Teu querer<br>Dá-me um coração igual ao Teu<br><br>Ensina-me a amar o meu irmão<br>A olhar com Teus olhos, perdoar com o Teu perdão<br><br>Ensina-me a amar o meu irmão<br>A olhar com Teus olhos<br>Perdoar com o Teu perdão<br><br>Enche-me com Teu Espírito<br>Endireita os meus caminhos<br>Dá-me um novo coração<br><br>Enche-me com Teu Espírito<br>Endireita os meus caminhos<br>Dá-me um novo coração<br><br>Dá-me um novo coração<br>Dá-me um novo coração<br><br>Dá-me um coração igual ao Teu<br>Meu Mestre<br>Dá-me um coração igual ao Teu<br><br>Coração disposto a obedecer<br>Cumprir todo o Teu querer<br>Dá-me um coração igual ao Teu<br>Meu Mestre<br>Dá-me um coração igual ao Teu<br><br>Coração disposto a obedecer<br>Cumprir todo o Teu querer<br>Dá-me um coração igual ao Teu<br>Dá-me um coração igual ao Teu<br>Dá-me um coração igual ao Teu"
+    },
+    {
+        "number" : 16,
+        "title" : "Ao orarmos",
+        "content" : "Em breve..."
+    },
+    {
+        "number" : 17,
+        "title" : "Bom estarmos aqui",
+        "content" : "Bom estarmos aqui louvando a Deus<br>Podendo exaltar Seu santo nome<br>Tempo para isso, tempo para louvarmos a Deus<br>Num só amor, num só espírito<br>Tempo para isso, tempo para louvarmos a Deus<br>Num só amor, num só espírito<br><br>Deus, venha nos abençoar<br>E que esta união nunca falte para nós<br>Deus, venha nos abençoar<br>E que esta união nunca falte para nós"
+    },
+    {
+        "number" : 18,
+        "title" : "A alegria está no coração",
+        "content" : "A alegria está no coração<br>De quem já conhece a Jesus<br>A verdadeira paz só tem aquele<br>Que já conhece a Jesus<br><br>O sentimento mais precioso<br>Que vem do nosso Senhor<br>É o amor, que só tem<br>Quem já conhece a Jesus<br><br>A alegria está no coração<br>De quem já conhece a Jesus<br>A verdadeira paz só tem aquele<br>Que já conhece a Jesus<br><br>O sentimento mais precioso<br>Que vem do nosso Senhor<br>É o amor, que só tem<br>Quem já conhece a Jesus<br><br>Posso pisar numa tropa<br>E saltar as muralhas aleluia, aleluia<br>Posso pisar numa tropa<br>E saltar as muralhas aleluia, aleluia<br>Ele é a rocha da minha salvação<br>Com Ele não há mais condenação<br>Posso pisar numa tropa<br>E saltar as muralhas<br>Aleluia, aleluia<br>Aleluia, aleluia<br>Aleluia, aleluia<br>Aleluia, aleluia<br><br>O sentimento mais precioso<br>Que vem do nosso Senhor<br>É o amor que só tem<br>Quem já conhece a Jesus<br>É o amor que só tem<br>Quem já conhece a Jesus<br>É o amor que só tem<br>Quem já conhece a Jesus"
+    },
+    {
+        "number" : 19,
+        "title" : "Cantai ao Senhor",
+        "content" : "Cantai ao Senhor<br>Um cântico novo<br>Cantai ao Senhor<br>Todas as terras<br><br>Cantai ao Senhor<br>Bendizei o Seu nome<br>Proclamai a Sua salvação<br><br>Anunciai entre as nações<br>As Suas obras<br>Entre todos os povos<br>As Suas maravilhas<br><br>Por que grande é o Senhor<br>E mui digno de ser louvado<br>Mais temível do que falsos deuses<br><br>Glória e majestade<br>Estão diante d'Ele<br>Força e formosura<br>No Seu santuário<br><br>Glória e majestade<br>Estão diante d'Ele<br>Força e formosura<br>No Seu santuário"
+    },
+    {
+        "number" : 20,
+        "title" : "Recebi um novo coração",
+        "content" : "Em breve..."
+    },
+    {
+        "number" : 21,
+        "title" : "Vaso novo",
+        "content" : "Eu quero ser senhor amado,<br>Como um vaso nas mãos do oleiro<br>Quebre a minha vida e faça de novo<br>Eu quero ser, eu quero ser, um vaso novo<br><br>Como tu queres, senhor amado<br>Tu és o oleiro, e eu o vaso<br>Quebra a minha vida e faça de novo<br>Eu quero ser, eu quero ser, um vaso novo<br><br>Eu quero ser senhor amado,<br>Como um vaso nas mãos do oleiro<br>Quebre a minha vida e faça de novo<br>Eu quero ser, eu quero ser, um vaso novo..."
+    },{
+        "number" : 22,
+        "title" : "Nosso General",
+        "content" : "Pelo Senhor, marchamos sim<br>O seu exército, poderoso é<br>Sua glória será vista em toda terra<br><br>Vamos cantar o canto da vitória<br>Glória à Deus, vencemos a batalha<br>Toda arma contra nós perecerá<br><br>O nosso general é Cristo<br>Seguimos os seus passos<br>Nenhum inimigo nos resistirá<br><br>O nosso general é Cristo<br>Seguimos os seus passos<br>Nenhum inimigo nos resistirá<br><br>Pelo Messias marchamos sim<br>Em suas mãos a chave da vitória<br>Que nos leva a possuir a terra prometida<br><br>Vamos cantar o canto da vitória<br>Glória à Deus, vencemos a batalha<br>Toda arma contra nós perecerá<br><br>O nosso general é Cristo<br>Seguimos os seus passos<br>Nenhum inimigo nos resistirá<br><br>O nosso general é Cristo<br>Seguimos os seus passos<br>Nenhum inimigo nos resistirá<br><br>Nenhum inimigo nos resistirá<br>Nenhum inimigo nos resistirá"
+    },{
+        "number" : 23,
+        "title" : "Quero louvar-te",
+        "content" : "Quero louvar-te, sempre mais e mais<br>Quero louvar-te, sempre mais e mais<br>Buscar o teu querer, tua graça conhecer<br>Quero louvar-te<br><br>Quero adorar-te, sempre mais e mais<br>Quero adorar-te, sempre mais e mais<br>Buscar o teu querer, tua graça conhecer<br>Quero adorar-te<br><br>As aves do céu, cantam para ti<br>As feras do campo, refletem teu poder<br>Quero louvar, quero levantar as minhas mãos à ti<br><br>As aves do céu, cantam para ti<br>As feras do campo, refletem teu poder<br>Quero louvar, quero levantar as minhas mãos à ti<br><br>Quero louvar-te, sempre mais e mais<br>Eu quero louvar-te, sempre mais e mais<br>Buscar o teu querer, tua graça conhecer<br><br>As aves do céu, cantam para ti<br>As feras do campo, refletem teu poder<br>Quero louvar, quero levantar as minhas mãos à ti<br><br>As aves do céu, cantam para ti<br>As feras do campo, refletem teu poder<br>Quero cantar, quero levantar as minhas mãos à ti"
+    },{
+        "number" : 24,
+        "title" : "Leão de Judá",
+        "content" : "Ouve-se o júbilo em todos os povos<br>Os reis se dobraram ao Senhor<br>Ouve-se o brado de vitória<br>O dia do Senhor chegou<br><br>Ouve-se todos os povos<br>Que um novo Rei surgiu<br>Impérios reconhecem<br>Que sua destra reinará<br><br>Leão de Judá, Leão de Judá<br>Leão de Judá prevaleceu<br><br>E os povos verão e virão<br>A Sião aprender sua lei<br>Pois a sua justiça governará"
+    },{
+        "number" : 25,
+        "title" : "Ah como é bom poder",
+        "content" : "Ah<br>Como é bom poder<br>Aos pés da cruz<br>Depositar<br>Este meu fardo<br>Pesado e árduo<br>De carregar<br><br>E não ter que andar<br>Ansioso de nada senão<br>A Deus tudo levar<br>Em grata e súplice oração<br>E a paz de Deus então<br>Mente e coração guardará<br>Em Cristo Jesus<br><br>Ah<br>Como é bom poder<br>Aos pés da cruz<br>Depositar<br>Este meu fardo<br>Pesado e árduo<br>De carregar<br><br>E não ter que andar<br>Ansioso de nada senão<br>Sobre Ele lançar<br>Cada problema, cada aflição<br>E a paz de Deus então<br>Mente e coração guardará<br>Em Cristo Jesus<br><br>Ah<br>Como é bom poder<br>Como é bom saber"
+    },{
+        "number" : 26,
+        "title" : "Seja engrandecido",
+        "content" : "Seja engrandecido, óh Deus da minha vida,<br>Tú És o Deus da minha salvação,<br>És a minha Rocha, a minha segurança<br>Meus lábios sempre Te exaltarão (2x)<br>Aleluia (aleluia), Te louvo (te louvo)<br>Pois sei que sobre todos És Senhor<br>Aleluia (aleluia), Te louvo (te louvo)<br>Pois sei que sobre todos És Senhor<br>Aleluia (aleluia), aleluia, (aleluia),<br>Aleluia, louvemos ao Senhor<br>Aleluia (aleluia), aleluia, (aleluia),<br>Aleluia, louvemos ao Senhor"
+    },{
+        "number" : 27,
+        "title" : "Verei Jesus",
+        "content" : "Almejo o dia em que verei<br>Uma pequena luz no céu<br>E essa luz aumentará<br>Milhares de anjos surgirão<br><br>Eu creio sim que ele virá<br>E muito em breve eu subirei<br>Pra um novo lar, um novo céu<br>Pra sempre eu estarei<br>Feliz eu viverei<br>Verei Jesus<br><br>A voz de Deus irá soar<br>Nas nuvens sua glória surgirá<br>Mil gerações se encontrarão<br>E para sempre louvarão<br><br>Eu creio sim que ele virá<br>E muito em breve eu subirei<br>Pra um novo lar, um novo céu<br>Pra sempre eu estarei<br>Feliz eu viverei<br>Verei Jesus<br><br>Eu creio sim que ele virá<br>E muito em breve eu subirei<br>Pra um novo lar, um novo céu<br>Pra sempre eu estarei<br>Feliz eu viverei<br><br>Eu creio sim que ele virá<br>E muito em breve eu subirei<br>Pra um novo lar, um novo céu<br>Pra sempre eu estarei<br>Feliz eu viverei<br>Verei Jesus"
+    },{
+        "number" : 28,
+        "title" : "Como é precioso irmão",
+        "content" : "Como é precioso irmão<br>Estar bem junto a ti<br>E Juntos lado a lado<br>Andarmos com Jesus<br>E expressarmos o amor<br>Que um dia Ele nos deu<br>Pelo sangue no calvário<br>Sua vida trouxe a nós.<br><br>Aliança no Senhor<br>Eu tenho com você<br>Não existem mais barreiras<br>Em meu ser.<br><br>Eu sou livre pra te amar<br>Pra te aceitar<br>E para te pedir: Perdoa-me irmão<br>Eu sou um com você<br>No amor do nosso Pai<br>Somos um no amor de Jesus."
+    },{
+        "number" : 29,
+        "title" : "Em breve Cristo voltará",
+        "content" : "Em breve..."
+    },{
+        "number" : 30,
         "title" : "Maranata",
         "content" : "Tu és a minha luz<br>A minha salvação<br>E a Ti me renderei<br>Se ao teu lado estou<br>Seguro em tuas mãos<br>Eu nada temerei<br><br>Ô, ô, ô, Tu és Santo, ó Senhor<br>Ô, ô, ô, Tu és digno de louvor<br><br>Só em Ti confiarei<br>Eu nada temerei<br>Em frente eu irei<br>Pois eu sei que vivo estás!<br>E um dia voltarás<br>Do céu pra nos buscar<br>Para sempre reinarás, aleluia!<br><br>Tu és a minha luz<br>A minha salvação<br>E a Ti me renderei<br>Se ao teu lado estou<br>Seguro em tuas mãos<br>Eu nada temerei<br><br>Ô, ô, ô, Tu és Santo, ó Senhor<br>Ô, ô, ô, Tu és digno de louvor<br><br>Só em Ti confiarei<br>Eu nada temerei<br>Em frente eu irei<br>Pois eu sei que vivo estás!<br>E um dia voltarás<br>Do céu pra nos buscar<br>Pra sempre reinarás, aleluia!<br><br>Só em Ti confiarei<br>Eu nada temerei<br>Em frente eu irei<br>Pois eu sei que vivo estás!<br>E um dia voltarás<br>Do céu pra nos buscar<br>Pra sempre reinarás, aleluia!<br><br>Vem Jesus, vem Jesus!<br>Maranata ora, vem Senhor Jesus!<br><br>Vem Jesus, vem Jesus!<br>Maranata ora, vem Senhor Jesus!<br><br>Vem Jesus, vem Jesus!<br>Maranata ora, vem Senhor Jesus!<br><br>Vem Jesus, vem Jesus!<br>Maranata ora, vem Senhor Jesus!<br><br>Só em Ti confiarei<br>Eu nada temerei<br>Em frente eu irei<br>Pois eu sei que vivo estás!<br>E um dia voltará<br>Do céu pra nós buscar<br>Pra sempre reinará, aleluia!<br><br>Só em Ti confiarei<br>Eu nada temerei<br>Em frente eu irei<br>Pois eu sei que vivo estás!<br>E um dia voltará<br>Dó céu pra nós buscar<br>Pra sempre reinará, aleluia!"
+    },{
+        "number" : 31,
+        "title" : "De todas as tribos",
+        "content" : "De todas as tribos, povos e raças<br>Muitos virão Te louvar<br>De tantas culturas, línguas e nações<br>No tempo e no espaço, virão Te adorar<br><br>Bendito seja sempre o cordeiro<br>Filho de Deus, raiz de Davi<br>Bendito seja o Teu santo nome<br>Cristo Jesus presente aqui<br><br>Remidos, comprados, grande multidão<br>Muitos virão Te louvar<br>Povo escolhido, Teu reino e nação<br>No tempo e no espaço, virão Te adorar<br><br>E a nós só nos cabe tudo dedicar<br>Oferta suave ao Senhor<br>Dons e talentos queremos consagrar<br>E a vida no Teu altar pra Teu louvor."
+    },{
+        "number" : 32,
+        "title" : "Desde os confins da terra",
+        "content" : "Desde os confins da terra<br>No mais profundo mar<br>Nas alturas do céus<br>Louvado És<br><br>Dentro dos corações<br>Em meio a um clamor<br>Nasce esta canção<br>E os povos cantam<br><br>Por toda eternidade<br>Tu serás adorado<br>Grande Deus!<br>Exaltado nas nações<br>Senhor da criação<br>Grande Deus!<br>Seja louvado!"
+    },{
+        "number" : 33,
+        "title" : "Não Olho as Circunstâncias",
+        "content" : "Esta paz que eu sinto em minha alma<br>Não é porque tudo me vai bem<br>Esta paz que eu sinto em minha alma<br>É porque eu sirvo a quem me é fiel!<br><br>Não olho circunstâncias<br>Não, não, não, olho o seu amor<br>Não me guio por vista, alegre vou!<br><br>Este gozo que eu sinto em minha alma<br>Não é porque tudo me vai bem!<br>Este gozo que eu sinto em minha alma<br>É porque eu sirvo a quem me é fiel!<br><br>Não olho circunstâncias<br>Não, não, não, olho o seu amor<br>Não me guio por vista, alegre vou!<br><br>E ainda que a terra não floresça<br>E a vide não dê o seu fruto<br>E ainda que os montes se lancem ao mar<br>E a terra trema, eu hei de confiar!<br><br>Não olho circunstâncias<br>Não, não, não, olho o seu amor<br>Não me guio por vista, alegre vou!<br><br>Segue abaixo uma outra versão da letra dessa musica<br>Gostaria que verificassem qual é a correta ou se as duas são corretas<br><br>Esta paz que eu sinto em minha alma<br>Não é porque tudo me vai bem<br>Esta paz que eu sinto em minha alma<br>É porque eu sigo a Alguém fiel!<br><br>Não olho circunstâncias<br>Não, não, não, olho o seu amor<br>Não me guio por vista, alegre estou!<br><br>Este gozo que eu sinto em minha alma<br>Não é porque olho ao meu redor<br>Este gozo que eu sinto em minha alma<br>É porque eu louvo ao meu Senhor<br><br>Ainda que a terra não floresça<br>E a vide não dê o seu fruto<br>Ainda que os montes se lancem ao mar<br>E a terra trema, eu hei de confiar!"
+    },{
+        "number" : 34,
+        "title" : "Toma o meu coração",
+        "content" : "Este é meu desejo<br>Senhor, Te honrar<br>Com meu coração, Te adorar<br>Tudo o que há em mim<br>Te dá louvor<br>Só a Ti adoro, meu Senhor<br><br>Toma o meu coração<br>E toda a minha alma<br>Eu vivo só pra Ti<br>Sempre que eu respirar<br>Cada vez que eu acordar<br>Faze o Teu querer em mim<br><br>Este é meu desejo<br>Senhor, Te honrar<br>Com meu coração, Te adorar<br>Tudo o que há em mim<br>Te dá louvor<br>Só a Ti adoro, meu Senhor"
+    },{
+        "number" : 35,
+        "title" : "Sonda-me",
+        "content" : "Sonda-me, Senhor, e me conhece<br>Quebranta o meu coração<br><br>Transforma-me<br>Conforme a Tua palavra<br>E enche-me até que em mim<br>Se ache só a Ti<br><br>Então<br>Usa-me, Senhor<br>Usa-me<br><br>Como um farol que brilha à noite<br>Como ponte sobre as águas<br>Como abrigo no deserto<br>Como flecha que acerta o alvo<br><br>Eu quero ser usado<br>Da maneira que te agrade<br>Em qualquer hora e em qualquer lugar<br><br>Eis aqui a minha vida<br>Usa-me, Senhor<br>Usa-me<br><br>Sonda-me, Senhor, e me conheces<br>Quebranta o meu coração<br><br>Transforma-me<br>Conforme a Tua palavra<br>E enche-me até que em mim<br>Se ache só a Ti<br><br>Então<br>Usa-me, Senhor<br>Usa-me<br><br>Como um farol que brilha à noite<br>Como ponte sobre as águas<br>Como abrigo no deserto<br>Como flecha que acerta o alvo<br><br>Eu quero ser usado<br>Da maneira que te agrade<br>Em qualquer hora e em qualquer lugar<br><br>Eis aqui a minha vida<br>Usa-me, Senhor<br>Usa-me<br><br>Sonda-me<br>Quebranta-me<br>Transforma-me<br>Enche-me<br>E usa-me<br><br>Sonda-me<br>Quebranta-me<br>Transforma-me<br>Enche-me<br>E usa-me, Senhor<br><br>Como um farol que brilha à noite<br>Como ponte sobre as águas<br>Como abrigo no deserto<br>Como flecha que acerta o alvo<br><br>Eu quero ser usado<br>Da maneira que te agrade<br>Em qualquer hora e em qualquer lugar<br><br>Eis aqui a minha vida<br>Usa-me, Senhor<br>Usa-me<br><br>Sonda-me<br>Quebranta-me<br>Transforma-me<br>Enche-me<br>E usa-me<br><br>Sonda-me<br>Quebranta-me<br>Transforma-me<br>Enche-me<br>E usa-me, Senhor<br><br>E usa-me, Senhor"
+    },
+    {
+        "number" : 36,
+        "title" : "O amor de nosso Deus",
+        "content" : "Jesus deixou toda a sua glória<br>Veio ao mundo como homem pra nos salvar<br>Viveu aqui e conheceu nossas dores<br>Mas tudo Ele sofreu e venceu em nosso lugar<br>Pra nos mostrar que o Criador, o único Deus<br>Nos ama e deseja restaurar<br>Seu perdão vai além dos céus<br>Nem um monte é tão alto<br>Nem um vale tão profundo<br>Como o amor do nosso Deus<br><br>Grande, tão grande; alto, tão alto<br>Fundo, profundo, é maior que o mundo<br>Mas é pequeno, cabe lá dentro<br>Do coração de quem se entrega ao Salvador<br><br>Você, também, meu amigo<br>Precisa abrir o seu coração<br>E receber o amor de Deus<br>Se entregando a Jesus"
+    },
+    {
+        "number" : 37,
+        "title" : "Te agradeço",
+        "content" : "Por tudo o que tens feito<br>Por tudo o que vais fazer<br>Por Tuas promessas e tudo o que És<br>Eu quero Te agradecer<br>Com todo o meu ser<br><br>Te agradeço, meu Senhor<br>Te agradeço, meu Senhor<br>Te agradeço, meu Senhor<br>Te agradeço, meu Senhor<br><br>Te agradeço por me libertar e salvar<br>Por ter morrido em meu lugar, Te agradeço<br>Jesus, Te agradeço<br>Eu Te agradeço<br>Te agradeço<br><br>Por tudo o que tens feito<br>Por tudo o que vais fazer<br>Por Tuas promessas e tudo o que És<br>Eu quero Te agradecer<br>Com todo o meu ser<br><br>Te agradeço, meu Senhor<br>Te agradeço, meu Senhor<br>Te agradeço, meu Senhor<br>Te agradeço, meu Senhor<br><br>Te agradeço por me libertar e salvar<br>Por ter morrido em meu lugar, Te agradeço<br>Jesus, Te agradeço<br>Eu Te agradeço<br>Te agradeço<br><br>Te agradeço, meu Senhor<br>Te agradeço, meu Senhor<br>Te agradeço, meu Senhor<br>Te agradeço, meu Senhor<br><br>Te agradeço por me libertar e salvar<br>Por ter morrido em meu lugar, Te agradeço<br>Jesus, Te agradeço<br>Eu Te agradeço<br>Te agradeço<br><br>Te agradeço por me libertar e salvar<br>Por ter morrido em meu lugar, Te agradeço<br>Jesus, Te agradeço<br>Eu Te agradeço<br>Te agradeço<br>Te agradeço<br>Te agradeço"
+    },
+    {
+        "number" : 38,
+        "title" : "Perdão e graça",
+        "content" : "Confesso a Ti Senhor que fraco eu sou<br>Tão fraco eu sou<br>Mas forte Tu És<br><br>Eu venho a ti Senhor sem nada pra dar<br>Só quero pedir<br>Vem e ajuda-me, ó Deus<br><br>Confesso a ti Senhor que fraco eu sou<br>Tão fraco eu sou<br>Mas forte tu és<br><br>Eu venho a ti Senhor sem nada pra dar<br>Só quero pedir<br>Vem e ajuda-me, ó Deus<br><br>Um coração quebrantado e humilde<br>Não rejeita, Senhor<br>Estenda a mim tua graça e deixe teu amor fluir<br>Por misericórdia nós clamamos<br><br>Faz chover perdão e graça<br>Sobre mim perdão e graça<br>E lava-me Senhor, pois hoje eu preciso do teu amor<br><br>Faz chover perdão e graça<br>Sobre mim perdão e graça<br>E lava-me Senhor, pois hoje eu preciso do teu amor"
+    },
+    {
+        "number" : 39,
+        "title" : "Marcharemos",
+        "content" : "Nós queremos ouvir tua voz<br>Teu louvor sempre esteja entre nós<br>Queremos ser, Senhor, mais sábios<br>Na verdade e no amor<br>Marcharemos na coragem do Senhor<br><br>Marcharemos cheios de coragem<br>Seguiremos seja onde for<br>Embora a dor nos cerque na viagem<br>Marcharemos na coragem do Senhor<br><br>E quando a escuridão da noite descer<br>Queremos só pela graça e fé viver<br>Com esperança e com coragem<br>Na alegria ou na dor<br>Marcharemos na coragem do Senhor"
+    },
+    {
+        "number" : 40,
+        "title" : "Teu reino",
+        "content" : "Em breve..."
+    },
+    {
+        "number" : 41,
+        "title" : "Assim como caem as folhas",
+        "content" : "Assim como caem as folhas<br>Cabelos também hão de cair<br>Anunciando uma nova estação<br>Lembrando a você que nem<br>Sempre é verão<br><br>Assim como a pedra desgasta<br>Seu corpo também vai se acabar<br>Fazendo mais pó para o vento levar<br>Abrindo passagem pra o tempo passar<br><br>Mas, além do pó<br>Existe uma eternidade pra se viver<br>Onde você vai passá-la<br>Responda que eu quero saber<br><br>Assim como a pedra desgasta<br>Seu corpo também vai se acabar<br>Fazendo mais pó para o vento levar<br>Abrindo passagem pra o tempo passar"
+    },
+    {
+        "number" : 42,
+        "title" : "Novos caminhos",
+        "content" : "Novos caminhos<br>Novos dias<br>Mundo novo<br>Tão meu<br><br>Novos caminhos<br>De uma nova paz<br>Novo coração<br>Que Deus me deu<br><br>Porque eu já tentei<br>Só vazio achei<br>Té que um dia a Cristo eu vi<br>E vale a pena eu sei<br>Pois em Cristo achei<br>Novo viver<br>pra mim<br><br>Novos caminhos<br>Novos dias<br>Mundo novo<br>Tão meu<br><br>Novos caminhos<br>De uma nova paz<br>Novo coração<br>Que Deus me deu<br><br>O sol pra mim brilhou<br>Cristo me livrou<br>E me deu a vida real<br>E nesse meu viver<br>Quero obedecer<br>A Cristo obedecer<br>Sempre nele crer<br>é um novo viver<br>Viver!"
+    },
+    {
+        "number" : 43,
+        "title" : "Vivo na esperança",
+        "content" : "Em breve..."
+    },
+    {
+        "number" : 44,
+        "title" : "Deus é real",
+        "content" : "Se eu fosse contar o que de alguém ouvi<br>Poderia um detalhe esquecer<br>Pois quando se conta algo que não se viu<br>Muita gente, talvez, não vá crer<br><br>Mas o que senti com o toque da fé<br>E até com os olhos da alma eu vi<br>Dê um tempo e escute<br>Verá, afinal, que o Deus que eu achei é real<br><br>O Deus que o mundo tão lindo criou<br>Muito amou a você e a mim<br>Por isso, Seu Filho ao mundo mandou<br>Nos trazer salvação que é sem fim<br><br>Mas o que senti com o toque da fé<br>E até com os olhos da alma eu vi<br>Deixa claro, Ele vive em meu coração<br>Encontrei seu perdão e a paz sem igual<br>Digo, então, que meu Deus é real!<br>Sim, Deus é real!<br>Deus é real!"
+    },
+    {
+        "number" : 45,
+        "title" : "Hoje é tempo",
+        "content" : "Hoje é tempo de louvar a Deus<br>Em nós agora habita o seu Espírito<br>Então é só cantar e a Cristo exaltar<br>E sua glória encherá este lugar<br><br>Vem louvar, vem louvar<br>Vem louvar, vem louvar<br><br>No meio dos louvores Deus habita<br>É seu prazer cumprir o que nos diz<br>Então é só cantar e a Cristo exaltar<br>E sua glória encherá este lugar<br>Vem louvar, vem louvar<br>Glória a Deus, glória a Deus<br><br>Hoje é tempo de louvar a Deus<br>Em nós agora habita o seu Espírito<br>Então é só cantar e a Cristo exaltar<br>E Sua glória encherá este lugar<br><br>Vem louvar, vem louvar<br>Vem louvar, vem louvar"
     }
 ]
