@@ -1,4 +1,4 @@
-// VERSION: 1.0.0
+// VERSION: 1.0.1
 
 self.addEventListener('install', function (e) {
     console.log('install');
@@ -6,8 +6,6 @@ self.addEventListener('install', function (e) {
     e.waitUntil(
         caches.open('selecaohinoscojdaeroporto').then(cache => {
             return cache.addAll([
-                '/',
-                '/index.html',
                 'https://samuelncarvalho.github.io/SelecaoCoros',
                 'https://samuelncarvalho.github.io/SelecaoCoros/',
                 'https://samuelncarvalho.github.io/SelecaoCoros/index.html',
