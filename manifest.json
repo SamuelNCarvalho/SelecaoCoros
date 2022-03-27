@@ -4,7 +4,7 @@
     "start_url": "/SelecaoCoros/",
     "display": "standalone",
     "theme_color": "#e1e1e1",
-    "background_color": "#fff",
+    "background_color": "#e1e1e1",
     "icons": [{
       "src": "https://samuelncarvalho.github.io/SelecaoCoros/img/logo192x192.png",
       "sizes": "192x192",
